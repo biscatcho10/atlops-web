@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24.383" height="27.866" viewBox="0 0 24.383 27.866">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3a4c94"/>
+      <stop offset="1" stop-color="#1d264a"/>
+    </linearGradient>
+  </defs>
+  <path id="Icon_metro-file-picture" data-name="Icon metro-file-picture" d="M25.4,26.311H7.982V22.827l5.225-8.708,7.157,8.708L25.4,19.344Zm0-11.32a2.612,2.612,0,1,1-2.612-2.612A2.612,2.612,0,0,1,25.4,14.99Zm2.335-6.828a24.675,24.675,0,0,0-2.372-2.713,24.681,24.681,0,0,0-2.713-2.372,4.34,4.34,0,0,0-2.474-1.148H6.676A2.179,2.179,0,0,0,4.5,4.105V27.617a2.179,2.179,0,0,0,2.177,2.177H26.7a2.179,2.179,0,0,0,2.177-2.177V10.636a4.34,4.34,0,0,0-1.148-2.474Zm-3.6-1.482A23.753,23.753,0,0,1,26.1,8.894h-4.19V4.705A23.729,23.729,0,0,1,24.129,6.68Zm3.01,20.937a.441.441,0,0,1-.435.435H6.676a.441.441,0,0,1-.435-.435V4.105a.441.441,0,0,1,.435-.435h13.5v6.1a.871.871,0,0,0,.871.871h6.1Z" transform="translate(-4.499 -1.928)" fill="url(#linear-gradient)"/>
+</svg>
